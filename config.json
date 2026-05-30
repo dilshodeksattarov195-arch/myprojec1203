@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderderify",
+        "uuid": 520899,
+        "checksum": "lvki07"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
